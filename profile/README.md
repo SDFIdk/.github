@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="SDFI_DK_RGB.svg" width="65%" alt="SDFI logo" />
+  <picture>
+    <source srcset="SDFI_DK_Hvid.svg" media="(prefers-color-scheme: dark)" />
+    <img src="SDFI_DK_RGB.svg" width="65%" alt="SDFI logo" />
+  </picture>
   <br />
   Vi bruger data og digital infrastruktur til at skabe et bedre Danmark
 </p>
