@@ -7,5 +7,5 @@
   Vi arbejder for et klimarobust, grønt og sikkert Danmark
 </p>
 <p align="center">
-  <b><a href="https://www.klimadatastyrelsen.dk/">Website</a> | <a href="https://www.linkedin.com/company/klimadatastyrelsen/">LinkedIn</a> | <a href="https://twitter.com/SDFItweet">X (Twitter)</a></b>
+  <b><a href="https://www.klimadatastyrelsen.dk/">Website</a> | <a href="https://www.linkedin.com/company/klimadatastyrelsen/">LinkedIn</a></b>
 </p>
